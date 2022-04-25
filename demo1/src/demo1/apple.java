@@ -1,4 +1,17 @@
-package demo1;
+package demo1; 
+
+public class apple;
+String color;
+
+apple(String color)
+{
+	this.color=color;
+}
+String getColor()
+{
+	return color;
+}
+
 
 public class apple {
 
